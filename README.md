@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with writing better code and problem solving practices.
 - 💬 Ask me about my journey as a student balancing and coding experiments
-- 📫 How to reach me:linked in;jackline wambui
+- 📫 How to reach me:linked in;"jackline wambui"
 - 😄 Pronouns:She\Her
 - ⚡ Fun fact:i believe every 'error' is just an invitation to learn something new.
 
