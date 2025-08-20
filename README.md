@@ -1,9 +1,7 @@
 # About me .
 
 
-**Jackie-yins/Jackie-yins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Jackie-yins/Jackie-yins**✨ 
 
 - 🔭 I’m currently working on improving my programmimg skills to help me grow and create small projects.
 - 🌱 I’m currently learning programming basics while exploring how to turn ideas into code.
